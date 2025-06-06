@@ -23,20 +23,20 @@ repository: "josterri/josterri.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Joerg R. Osterrieder"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Professor of Finance and Artificial Intelligence, Bern Business School and University of Twente. Research on quantitative investment, digital finance, and machine learning in finance."
+  location         : "Switzerland/ Netherlands"
+  employer         : "Bern Business School, University of Twente"
+  uri              : "https://scholar.google.com/citations?user=ocRaXoIAAAAJ&hl=de"
+  email            : "josterri@gmail.com" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/a/osterrieder_j_1.html"
+  googlescholar    : "https://scholar.google.com/citations?user=ocRaXoIAAAAJ&hl=de"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0189-8636"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "josterri"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "joergosterrieder"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
